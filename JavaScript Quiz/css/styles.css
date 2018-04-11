@@ -1,0 +1,51 @@
+*{
+   margin: 12px;
+}
+ body{
+   font-size: 20px;
+   font-family: cursive;
+   background-color:#f4f4f4;
+   
+}
+.jumbotron{
+   text-align: center;
+   background-image: url("https://images.pexels.com/photos/239898/pexels-photo-239898.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+   opacity: 0.6;
+   
+}
+.container{
+   text-align: center;
+}
+
+.question:hover{
+   font-weight: 600;
+   color: blue;
+}
+.question{
+   color: rgb(203, 97, 26);
+}
+.answers {
+ margin-bottom: 20px;
+ cursor: pointer;
+ 
+}
+.answers label{
+ display: block;
+}
+#submit{
+   font-family: sans-serif;
+   font-size: 20px;
+   background-color: rgb(26, 169, 226);
+   color: #fff;
+   border: 0px;
+   border-radius: 3px;
+   padding: 20px;
+   cursor: pointer;
+   margin-bottom: 20px;
+}
+#submit:hover{
+   background-color: rgb(181, 17, 99);
+}
+footer{
+   text-align: center;
+}
