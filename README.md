@@ -12,3 +12,10 @@ Some snippets to demonstrate the JS Quiz UI, fully responsive, includes CSS3 eff
 ![image](https://user-images.githubusercontent.com/23155302/39601311-815ff3d0-4eef-11e8-8425-a6ef0c3acba9.png)
 
 ![image](https://user-images.githubusercontent.com/23155302/39601350-9ae3e28a-4eef-11e8-8e97-8bf71747710a.png)
+
+snippets of incorrect and correct answers shown in red and green. 
+
+![image](https://user-images.githubusercontent.com/23155302/39601530-2e5dfcee-4ef0-11e8-8dc1-15a543b00f5a.png)
+
+![image](https://user-images.githubusercontent.com/23155302/39601551-489854b0-4ef0-11e8-91e4-5651583b1247.png)
+
